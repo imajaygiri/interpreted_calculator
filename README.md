@@ -6,5 +6,5 @@
     mkdir build
     cmake -B build -S . && cmake --build build && ./build/calculator
 ```
-![image]("./img/calc")
+![image](./img/calc.png)
 
